@@ -1,0 +1,18 @@
+{
+  "date": "2026-01-12",
+  "month": 1,
+  "day": 12,
+  "title": "El lenguaje del deseo",
+  "quote": "El discurso amoroso es hoy de una extrema soledad.",
+  "author": "Roland Barthes",
+  "source": "Fragmentos de un discurso amoroso (1977)",
+  "reflection": "Barthes escribió uno de los libros más honestos sobre el amor. No un tratado filosófico frío, sino un mapa del territorio emocional del enamorado: la espera junto al teléfono, la interpretación obsesiva de cada gesto, la agonía de no saber si el otro siente lo mismo.\n\nLo más valiente de Barthes fue admitir que el enamorado está solo. No porque nadie lo acompañe, sino porque el lenguaje del amor es un idioma que solo habla él. Cuando intentas explicar a un amigo por qué esa persona te vuelve loco, las palabras siempre se quedan cortas. El amor es, en ese sentido, intraducible.\n\nPero esa soledad tiene una salida: el otro. Cuando encuentras a alguien que habla tu mismo dialecto emocional, esa soledad se transforma en la intimidad más radical posible. Dos soledades que se reconocen y deciden, juntas, inventar un lenguaje nuevo.",
+  "song": {
+    "title": "Quizás, quizás, quizás",
+    "artist": "Nat King Cole",
+    "spotifyUrl": "https://open.spotify.com/track/4qJVAxnGJbpWSdR9qoY8Jl",
+    "youtubeUrl": "https://www.youtube.com/watch?v=rBxMSGBXFOA",
+    "reason": "La incertidumbre del quizás captura exactamente esa espera ansiosa del enamorado que Barthes disecciona con bisturí."
+  },
+  "tags": ["deseo", "soledad", "lenguaje", "espera"]
+}
