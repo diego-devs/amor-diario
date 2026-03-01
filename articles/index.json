@@ -338,5 +338,20 @@
     "date": "2026-02-28",
     "title": "Amar sin poseer",
     "author": "Khalil Gibran"
+  },
+  {
+    "date": "2026-03-01",
+    "month": 3,
+    "day": 1,
+    "title": "El amor como acto de valentía",
+    "author": "Erich Fromm",
+    "tags": [
+      "Fromm",
+      "valentía",
+      "dar",
+      "decisión",
+      "coraje",
+      "marzo"
+    ]
   }
 ]
