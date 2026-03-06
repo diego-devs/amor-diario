@@ -1,263 +1,682 @@
 [
   {
     "date": "2026-01-01",
+    "month": 1,
+    "day": 1,
     "title": "El amor como decisión del alma",
-    "file": "2026-01-01.json"
+    "author": "Erich Fromm",
+    "tags": [
+      "compromiso",
+      "decisión",
+      "arte de amar",
+      "año nuevo"
+    ]
   },
   {
     "date": "2026-01-02",
+    "month": 1,
+    "day": 2,
     "title": "La herida luminosa del deseo",
-    "file": "2026-01-02.json"
+    "author": "Rumi",
+    "tags": [
+      "misticismo",
+      "vulnerabilidad",
+      "luz",
+      "alma"
+    ]
   },
   {
     "date": "2026-01-03",
+    "month": 1,
+    "day": 3,
     "title": "Amar es reconocer al otro",
-    "file": "2026-01-03.json"
+    "author": "Pablo Neruda",
+    "tags": [
+      "intimidad",
+      "silencio",
+      "amor secreto",
+      "poesía"
+    ]
   },
   {
     "date": "2026-01-04",
+    "month": 1,
+    "day": 4,
     "title": "La mitad que nos falta",
-    "file": "2026-01-04.json"
+    "author": "Platón",
+    "tags": [
+      "mito",
+      "búsqueda",
+      "completitud",
+      "reconocimiento"
+    ]
   },
   {
     "date": "2026-01-05",
+    "month": 1,
+    "day": 5,
     "title": "El coraje de ser vulnerable",
-    "file": "2026-01-05.json"
+    "author": "Octavio Paz",
+    "tags": [
+      "vulnerabilidad",
+      "desnudez",
+      "coraje",
+      "identidad"
+    ]
   },
   {
     "date": "2026-01-06",
+    "month": 1,
+    "day": 6,
     "title": "Cuando el amor nos enseña a dar",
-    "file": "2026-01-06.json"
+    "author": "Khalil Gibran",
+    "tags": [
+      "libertad",
+      "entrega",
+      "transformación",
+      "dar"
+    ]
   },
   {
     "date": "2026-01-07",
+    "month": 1,
+    "day": 7,
     "title": "El amor en tiempos de espera",
-    "file": "2026-01-07.json"
+    "author": "Gabriel García Márquez",
+    "tags": [
+      "espera",
+      "paciencia",
+      "eternidad",
+      "pasión"
+    ]
   },
   {
     "date": "2026-01-08",
+    "month": 1,
+    "day": 8,
     "title": "Lo esencial y lo invisible",
-    "file": "2026-01-08.json"
+    "author": "Antoine de Saint-Exupéry",
+    "tags": [
+      "esencia",
+      "invisibilidad",
+      "lazos",
+      "responsabilidad"
+    ]
   },
   {
     "date": "2026-01-09",
+    "month": 1,
+    "day": 9,
     "title": "Amar es un verbo activo",
-    "file": "2026-01-09.json"
+    "author": "Mario Benedetti",
+    "tags": [
+      "entrega",
+      "generosidad",
+      "riesgo",
+      "sencillez"
+    ]
   },
   {
     "date": "2026-01-10",
+    "month": 1,
+    "day": 10,
     "title": "El amor como locura sagrada",
-    "file": "2026-01-10.json"
+    "author": "Platón",
+    "tags": [
+      "locura",
+      "divino",
+      "pasión",
+      "irracionalidad"
+    ]
   },
   {
     "date": "2026-01-11",
+    "month": 1,
+    "day": 11,
     "title": "La segunda persona del singular",
-    "file": "2026-01-11.json"
+    "author": "Simone de Beauvoir",
+    "tags": [
+      "libertad",
+      "feminismo",
+      "autonomía",
+      "elección"
+    ]
   },
   {
     "date": "2026-01-12",
+    "month": 1,
+    "day": 12,
     "title": "El lenguaje del deseo",
-    "file": "2026-01-12.json"
+    "author": "Roland Barthes",
+    "tags": [
+      "deseo",
+      "soledad",
+      "lenguaje",
+      "espera"
+    ]
   },
   {
     "date": "2026-01-13",
+    "month": 1,
+    "day": 13,
     "title": "Amar lo que permanece",
-    "file": "2026-01-13.json"
+    "author": "Pablo Neruda",
+    "tags": [
+      "entrega",
+      "orgullo",
+      "incondicional",
+      "poesía"
+    ]
   },
   {
     "date": "2026-01-14",
+    "month": 1,
+    "day": 14,
     "title": "La belleza del amor imperfecto",
-    "file": "2026-01-14.json"
+    "author": "Antoine de Saint-Exupéry",
+    "tags": [
+      "compañerismo",
+      "propósito",
+      "dirección",
+      "construir"
+    ]
   },
   {
     "date": "2026-01-15",
+    "month": 1,
+    "day": 15,
     "title": "La cristalización del amor",
-    "file": "2026-01-15.json"
+    "author": "Stendhal",
+    "tags": [
+      "enamoramiento",
+      "percepción",
+      "belleza",
+      "ilusión"
+    ]
   },
   {
     "date": "2026-01-16",
+    "month": 1,
+    "day": 16,
     "title": "El amor que todo lo puede",
-    "file": "2026-01-16.json"
+    "author": "William Shakespeare",
+    "tags": [
+      "certeza",
+      "duda",
+      "fidelidad",
+      "clásico"
+    ]
   },
   {
     "date": "2026-01-17",
+    "month": 1,
+    "day": 17,
     "title": "El otro como misterio sagrado",
-    "file": "2026-01-17.json"
+    "author": "Fernando Pessoa",
+    "tags": [
+      "cambio",
+      "misterio",
+      "aprendizaje",
+      "evolución"
+    ]
   },
   {
     "date": "2026-01-18",
+    "month": 1,
+    "day": 18,
     "title": "Sufrir por amor y la belleza del dolor",
-    "file": "2026-01-18.json"
+    "author": "Fiódor Dostoievski",
+    "tags": [
+      "dolor",
+      "separación",
+      "sufrimiento",
+      "ausencia"
+    ]
   },
   {
     "date": "2026-01-19",
+    "month": 1,
+    "day": 19,
     "title": "La valentía de la ternura",
-    "file": "2026-01-19.json"
+    "author": "Erich Fromm",
+    "tags": [
+      "amor propio",
+      "autoconocimiento",
+      "fortaleza",
+      "ternura"
+    ]
   },
   {
     "date": "2026-01-20",
+    "month": 1,
+    "day": 20,
     "title": "El amor como refugio",
-    "file": "2026-01-20.json"
+    "author": "Jorge Luis Borges",
+    "tags": [
+      "refugio",
+      "presencia",
+      "hogar",
+      "sueños"
+    ]
   },
   {
     "date": "2026-01-21",
+    "month": 1,
+    "day": 21,
     "title": "El fuego que no se apaga",
-    "file": "2026-01-21.json"
+    "author": "Fernando de Rojas",
+    "tags": [
+      "fuego",
+      "pasión",
+      "contradicción",
+      "intensidad"
+    ]
   },
   {
     "date": "2026-01-22",
+    "month": 1,
+    "day": 22,
     "title": "Elegirse cada día",
-    "file": "2026-01-22.json"
+    "author": "Jean Cocteau",
+    "tags": [
+      "acciones",
+      "cotidiano",
+      "consistencia",
+      "elección"
+    ]
   },
   {
     "date": "2026-01-23",
+    "month": 1,
+    "day": 23,
     "title": "El silencio que habla",
-    "file": "2026-01-23.json"
+    "author": "Buda (Siddhartha Gautama)",
+    "tags": [
+      "comprensión",
+      "silencio",
+      "presencia",
+      "sabiduría"
+    ]
   },
   {
     "date": "2026-01-24",
+    "month": 1,
+    "day": 24,
     "title": "La poesía del cuerpo",
-    "file": "2026-01-24.json"
+    "author": "Pablo Neruda",
+    "tags": [
+      "cuerpo",
+      "deseo",
+      "sensualidad",
+      "entrega"
+    ]
   },
   {
     "date": "2026-01-25",
+    "month": 1,
+    "day": 25,
     "title": "Amar al completo",
-    "file": "2026-01-25.json"
+    "author": "Leonard Cohen",
+    "tags": [
+      "sanación",
+      "devoción",
+      "paradoja",
+      "totalidad"
+    ]
   },
   {
     "date": "2026-01-26",
+    "month": 1,
+    "day": 26,
     "title": "La distancia como prueba",
-    "file": "2026-01-26.json"
+    "author": "Silvio Rodríguez",
+    "tags": [
+      "distancia",
+      "ausencia",
+      "memoria",
+      "imposibilidad"
+    ]
   },
   {
     "date": "2026-01-27",
+    "month": 1,
+    "day": 27,
     "title": "Amar sin poseer",
-    "file": "2026-01-27.json"
+    "author": "Khalil Gibran",
+    "tags": [
+      "espacio",
+      "libertad",
+      "respeto",
+      "madurez"
+    ]
   },
   {
     "date": "2026-01-28",
+    "month": 1,
+    "day": 28,
     "title": "El amor como acto político",
-    "file": "2026-01-28.json"
+    "author": "bell hooks",
+    "tags": [
+      "valentía",
+      "política",
+      "respeto",
+      "revolución"
+    ]
   },
   {
     "date": "2026-01-29",
+    "month": 1,
+    "day": 29,
     "title": "El reencuentro",
-    "file": "2026-01-29.json"
+    "author": "Mario Benedetti",
+    "tags": [
+      "reencuentro",
+      "distancia",
+      "confirmación",
+      "alegría"
+    ]
   },
   {
     "date": "2026-01-30",
+    "month": 1,
+    "day": 30,
     "title": "El tiempo del amor",
-    "file": "2026-01-30.json"
+    "author": "William Shakespeare",
+    "tags": [
+      "tiempo",
+      "eternidad",
+      "presente",
+      "presencia"
+    ]
   },
   {
     "date": "2026-01-31",
+    "month": 1,
+    "day": 31,
     "title": "El último día del mes más largo",
-    "file": "2026-01-31.json"
+    "author": "Octavio Paz",
+    "tags": [
+      "tiempo",
+      "dualidad",
+      "besos",
+      "noche"
+    ]
   },
   {
     "date": "2026-02-01",
+    "month": 2,
+    "day": 1,
     "title": "Febrero: el mes del corazón expuesto",
-    "file": "2026-02-01.json"
+    "author": "Erich Fromm",
+    "tags": [
+      "existencia",
+      "propósito",
+      "febrero",
+      "esencia"
+    ]
   },
   {
     "date": "2026-02-02",
+    "month": 2,
+    "day": 2,
     "title": "El amor que construye mundos",
-    "file": "2026-02-02.json"
+    "author": "Fernando Pessoa",
+    "tags": [
+      "pureza",
+      "sinrazón",
+      "fe",
+      "libertad"
+    ]
   },
   {
     "date": "2026-02-03",
+    "month": 2,
+    "day": 3,
     "title": "La geografía del deseo",
-    "file": "2026-02-03.json"
+    "author": "Pablo Neruda",
+    "tags": [
+      "silencio",
+      "presencia",
+      "intimidad",
+      "comunicación"
+    ]
   },
   {
     "date": "2026-02-04",
+    "month": 2,
+    "day": 4,
     "title": "La tregua del amor cotidiano",
-    "file": "2026-02-04.json"
+    "author": "Mario Benedetti",
+    "tags": [
+      "cotidiano",
+      "sorpresa",
+      "madurez",
+      "tregua"
+    ]
   },
   {
     "date": "2026-02-05",
+    "month": 2,
+    "day": 5,
     "title": "El lenguaje de las caricias",
-    "file": "2026-02-05.json"
+    "author": "Ingrid Bergman",
+    "tags": [
+      "besos",
+      "cuerpo",
+      "lenguaje",
+      "intimidad"
+    ]
   },
   {
     "date": "2026-02-06",
+    "month": 2,
+    "day": 6,
     "title": "El amor y la muerte",
-    "file": "2026-02-06.json"
+    "author": "Rey Salomón (atribuido)",
+    "tags": [
+      "muerte",
+      "eternidad",
+      "sagrado",
+      "marca"
+    ]
   },
   {
     "date": "2026-02-07",
+    "month": 2,
+    "day": 7,
     "title": "La arquitectura del nosotros",
-    "file": "2026-02-07.json"
+    "author": "Pablo Neruda",
+    "tags": [
+      "nostalgia",
+      "cambio",
+      "identidad",
+      "transformación"
+    ]
   },
   {
     "date": "2026-02-08",
+    "month": 2,
+    "day": 8,
     "title": "El amor como revolución interior",
-    "file": "2026-02-08.json"
+    "author": "Gottfried Wilhelm Leibniz",
+    "tags": [
+      "felicidad",
+      "altruismo",
+      "celebración",
+      "generosidad"
+    ]
   },
   {
     "date": "2026-02-09",
+    "month": 2,
+    "day": 9,
     "title": "Carta a quien amo",
-    "file": "2026-02-09.json"
+    "author": "Alejandra Pizarnik",
+    "tags": [
+      "elección",
+      "palabras",
+      "poesía",
+      "precisión"
+    ]
   },
   {
     "date": "2026-02-10",
+    "month": 2,
+    "day": 10,
     "title": "La vulnerabilidad como puente",
-    "file": "2026-02-10.json"
+    "author": "Brené Brown",
+    "tags": [
+      "vulnerabilidad",
+      "conexión",
+      "valentía",
+      "autenticidad"
+    ]
   },
   {
     "date": "2026-02-11",
+    "month": 2,
+    "day": 11,
     "title": "El amor maduro no necesita testigos",
-    "file": "2026-02-11.json"
+    "author": "Jorge Bucay",
+    "tags": [
+      "madurez",
+      "autenticidad",
+      "libertad",
+      "crecimiento"
+    ]
   },
   {
     "date": "2026-02-12",
+    "month": 2,
+    "day": 12,
     "title": "La memoria del cuerpo",
-    "file": "2026-02-12.json"
+    "author": "Gabriel García Márquez",
+    "tags": [
+      "memoria",
+      "eternidad",
+      "García Márquez",
+      "pasión"
+    ]
   },
   {
     "date": "2026-02-13",
+    "month": 2,
+    "day": 13,
     "title": "La antesala del amor",
-    "file": "2026-02-13.json"
+    "author": "Jean Cocteau",
+    "tags": [
+      "acción",
+      "pruebas",
+      "San Valentín",
+      "cotidianidad"
+    ]
   },
   {
     "date": "2026-02-14",
+    "month": 2,
+    "day": 14,
     "title": "El amor como revolución silenciosa",
-    "file": "2026-02-14.json"
+    "author": "Gabriel García Márquez",
+    "tags": [
+      "San Valentín",
+      "transformación",
+      "celebración",
+      "plenitud"
+    ]
   },
   {
     "date": "2026-02-15",
+    "month": 2,
+    "day": 15,
     "title": "Lo que queda después de la fiesta",
-    "file": "2026-02-15.json"
+    "author": "Cullen Hightower",
+    "tags": [
+      "ego",
+      "humildad",
+      "relaciones",
+      "trabajo"
+    ]
   },
   {
     "date": "2026-02-16",
+    "month": 2,
+    "day": 16,
     "title": "Amar en silencio también cuenta",
-    "file": "2026-02-16.json"
+    "author": "Aristóteles",
+    "tags": [
+      "silencio",
+      "conexión",
+      "rutina",
+      "eternidad"
+    ]
   },
   {
     "date": "2026-02-17",
+    "month": 2,
+    "day": 17,
     "title": "El coraje de amar otra vez",
-    "file": "2026-02-17.json"
+    "author": "Frida Kahlo",
+    "tags": [
+      "coraje",
+      "Frida",
+      "vulnerabilidad",
+      "asombro"
+    ]
   },
   {
     "date": "2026-02-18",
+    "month": 2,
+    "day": 18,
     "title": "Amar es un acto de fe renovable",
-    "file": "2026-02-18.json"
+    "author": "Sor Juana Inés de la Cruz",
+    "tags": [
+      "fe",
+      "distancia",
+      "Sor Juana",
+      "sentimiento"
+    ]
   },
   {
     "date": "2026-02-19",
+    "month": 2,
+    "day": 19,
     "title": "Amar es aprender a quedarse",
-    "file": "2026-02-19.json"
+    "author": "Antoine de Saint-Exupéry",
+    "tags": [
+      "compañía",
+      "rumbo",
+      "Saint-Exupéry",
+      "quedarse",
+      "compromiso"
+    ]
   },
   {
     "date": "2026-02-20",
+    "month": 2,
+    "day": 20,
     "title": "La paciencia de florecer juntos",
-    "file": "2026-02-20.json"
+    "author": "Rainer Maria Rilke",
+    "tags": [
+      "paciencia",
+      "Rilke",
+      "florecer",
+      "oficio",
+      "crecimiento"
+    ]
   },
   {
     "date": "2026-02-21",
+    "month": 2,
+    "day": 21,
     "title": "El amor es un relámpago que dura",
-    "file": "2026-02-21.json"
+    "author": "Octavio Paz",
+    "tags": [
+      "despertar",
+      "Octavio Paz",
+      "realidad",
+      "combate",
+      "beso"
+    ]
   },
   {
     "date": "2026-02-22",
@@ -331,13 +750,31 @@
   },
   {
     "date": "2026-02-27",
+    "month": 2,
+    "day": 27,
     "title": "El amor que transforma",
-    "author": "Pablo Neruda"
+    "author": "Pablo Neruda",
+    "tags": [
+      "Neruda",
+      "intimidad",
+      "secreto",
+      "profundidad",
+      "autenticidad"
+    ]
   },
   {
     "date": "2026-02-28",
+    "month": 2,
+    "day": 28,
     "title": "Amar sin poseer",
-    "author": "Khalil Gibran"
+    "author": "Khalil Gibran",
+    "tags": [
+      "Gibran",
+      "libertad",
+      "espacio",
+      "desapego",
+      "profundidad"
+    ]
   },
   {
     "date": "2026-03-01",
@@ -360,10 +797,6 @@
     "day": 2,
     "title": "Lo que queda cuando callas",
     "author": "Jorge Bucay",
-    "song": {
-      "title": "Déjame Llorar",
-      "artist": "Ricardo Montaner"
-    },
     "tags": [
       "Bucay",
       "aceptación",
@@ -375,8 +808,18 @@
   },
   {
     "date": "2026-03-03",
+    "month": 3,
+    "day": 3,
     "title": "El coraje de ser vulnerable",
-    "file": "2026-03-03.json"
+    "author": "Gottfried Wilhelm Leibniz",
+    "tags": [
+      "Leibniz",
+      "vulnerabilidad",
+      "felicidad",
+      "coraje",
+      "resonancia",
+      "entrega"
+    ]
   },
   {
     "date": "2026-03-04",
@@ -406,6 +849,21 @@
       "dar amor",
       "mística",
       "valentía"
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "month": 3,
+    "day": 6,
+    "title": "El amor es atención",
+    "author": "Simone Weil",
+    "tags": [
+      "Simone Weil",
+      "atención",
+      "presencia",
+      "generosidad",
+      "escucha",
+      "amor consciente"
     ]
   }
 ]
